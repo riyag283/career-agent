@@ -1,0 +1,23 @@
+{
+  "name": "Riya",
+
+  "target_roles": [
+    "Backend Engineer",
+    "Platform Engineer",
+    "Infrastructure Engineer",
+    "AI Infrastructure Engineer"
+  ],
+
+  "skills": [
+    "Python",
+    "Kubernetes",
+    "Redis",
+    "FastAPI",
+    "Docker",
+    "Postgres",
+    "GraphQL",
+    "Distributed Systems",
+    "Cloud",
+    "Watsonx"
+  ]
+}

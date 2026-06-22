@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+
+requests
+beautifulsoup4
+
+openai
+
+pgvector
+
+pydantic
+python-dotenv
+
+apscheduler
